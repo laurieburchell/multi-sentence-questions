@@ -6,6 +6,6 @@ Dataset for the upcoming paper.
 
 | Split  | Count  |
 |---|---|
-|  Train | 137,817  |
-| Dev  | 17,229  |
-| Test  | 17,230  |
+|  Train | 130,196  |
+| Dev  | 16,274  |
+| Test  | 16,275  |
