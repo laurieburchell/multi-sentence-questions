@@ -1,6 +1,6 @@
 # Multi-sentence Questions
 
-Dataset for the upcoming paper.
+Dataset for "Querent Intent in Multi-Sentence Questions" (Burchell et al. 2020). Find the paper at https://arxiv.org/abs/2010.08980 and the data at http://data.statmt.org/msq.tgz.
 
 ## Summary stats:
 
